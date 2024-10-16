@@ -1,0 +1,73 @@
+Ingredients :
+
+Brosse à dents
+Tube de dentifrice
+Robinet
+Lavabo
+Serviette
+Eau
+
+Preparation :
+
+Prendre la brosse à dents
+Mettre le dentifrice sur la brosse à dents
+Brosser les dents avec la brosse à dents
+Cracher le dentifrice
+Rincer la bouche avec de l'Eau
+Cracher l'eau
+S'essuiyer avec la serviette
+
+Finalite :
+
+Dents propres
+
+let nombreun (<- c'est une variable)= 1
+let nombredeux = 2
+let resultat = nombreun + nombredeux
+
+let (nom test que tu assignes a une valeur)
+coost (creation d'une constante qui ne change jamais)
+
+//operateurs de comparaisons :
+
+= : operateur d'affectation (je te donne = cette valeur)
++ : addition / concanetation de deux chaines de caracteres (additionner deux chaines)
+- : soustraction
+/ : division
+* : multiplication
+== : egalite simple
+=== : egalite strict
+!= : differnt de (ne prend pas en compte le type)
+!== : strictement de (prend en compte le type)
+< : inferieur a 
+> : superieur a
+<= : inferieur ou egal a
+=> : superieur ou egal a 
+
+
+console.leg (resulat)
+
+
+//types de variable :
+
+number :
+Integer (nombre entier, sans virgule)
+float (nombre decimal)
+String (chaine de caractère, une suite de caracteres par exemple "Bonjour a tous")
+Boleain (vrai / faux)
+
+let nombreun = 1
+let nombredeux = 1
+let estegal = nombreun == nombredeux
+
+
+Exercice 2 :  Déclarez deux variables de type chaîne de caractères, 
+concaténez les deux chaînes et affichez le résultat dans la console
+
+let str = "Coucou"
+let strtwo = "Ca va ?"
+let resultat = "Coucou" + "Ca va ?"
+
+
+
+
